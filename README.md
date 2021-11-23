@@ -1,6 +1,6 @@
 
 # Description
-Did you ever notice that these platforms ask you to rate and review their products when you buy a product from them? You can also rate or review any product that you want to without even buying it from their website.
+Did you ever notice that ecommerce platforms ask you to rate and review their products when you buy a product from them? You can also rate or review any product that you want to without even buying it from their website.
 Would it not be interesting to build an end-to-end recommendation system to recommend products to the users that they will most probably like based on their purchase history?
  
 Reviews and ratings given by the users for the products play a vital role in purchase decisions. Suppose you want to buy a particular product from any e-commerce website. You check the reviews of that product, and if people are giving positive responses or higher ratings, then the product is considered good to buy, and if there are more negative responses or lower ratings, then it is not considered a good buy. 
