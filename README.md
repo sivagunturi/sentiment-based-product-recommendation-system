@@ -7,4 +7,4 @@ Reviews and ratings given by the users for the products play a vital role in pur
 
  But, the recommendation system works upon how you can automate this process and then recommend the products to other users based on the previously existing reviews and ratings.
  
-There are two main parts to this project; the first is doing sentiment analysis on product reviews, and the second is building the recommendation system and fine-tuning the output using the sentiment analysis model. You should already be comfortable in building a text classification engine for binary sentiment classification. Since the recommendation system will be new for you, in the next session, you will learn how the recommendation engine works. 
+There are two main parts to this project; the first is doing sentiment analysis on product reviews, and the second is building the recommendation system and fine-tuning the output using the sentiment analysis model. 
